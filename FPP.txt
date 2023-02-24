@@ -1,0 +1,34 @@
+# Run
+/var/folders/mn/2wgp8nyn2h/Users/holleyjk/Desktop/2021.laptop/old.laptop/holleyjk/Desktop/A353/A353/homework16ckmchn47t30r0000gp/T/com.apple.TextEdit/JWST-vs-Hubble-1st-image-2-1 (dragged).tiff# orbit -- -1 = retrograde; 1 = prograde
+# mbh1= primary black hole mass in solar masses
+# mbh2= secondary black hole mass in solar masses
+# mbbh= binary black hole mass in solar masses
+# rinfl=radius of influence of the binary in parsecs
+# rhoinfl=density at the influence radius in parsecs per solar masses
+# hardening parameter in 1/pc * 1/Myr
+# initial eccentricity
+# final eccentricity
+# coalescence time in Gyr
+Run	orbit	mbh1	mbh2	mbbh	rinflb	rhoinflb	s	ecci	eccf	Tcoal
+NGC2639r   -1	1700e6    425e6	2125e6	180	145	0.011	0.92	0.99	0.08e9
+NGC2639pq4   1	1700e6    425e6 2125e6 	178 	136 	0.012 	0.05 	0.05 	0.62e9
+NGC2639p     1 1700e6   1700e6 3400e6  257     67.     0.0057  0.05    0.21    0.75e9
+NGC6958r   -1	360e6     90e6  450e6 	226 	10.4 	0.0029 	0.98 	0.99 	0.286e9
+NGC6958p   1	360e6     90e6 	450e6 	232 	10.8 	0.003 	0.06 	0.07 	4.8e9 
+MWp 	   1	4.0e6     4.0e6 8.0e6 	10.7 	1.35e4 	0.78 	0.05 	0.05 	0.58e9
+MWrq4 	   -1	4.0e6     1.0e6 5.0e6 	3.66 	1.34e4 	3.3 	0.72 	0.98 	0.04e9
+MWpq4 	   1	4.0e6 	  1.0e6 5.0e6 	3.66 	1.34e4	5.13 	0.14 	0.18 	0.18e9
+M32rq4 	   -1	2.5e6 	 0.62e6 3.1e6 	6.5 	1e4 	1.9 	0.98 	0.91 	0.18e9
+M32pq4 	   1	2.5e6 	 0.62e6 3.1e6 	6.5 	1e4 	1.8 	0.1 	0.08 	0.50e9
+M32p 	   1	2.5e6 	  2.5e6 5.0e6 	6.5  	1e4 	0.47 	0.03 	0.02 	1.02e9
+NGC5102r   -1	0.88e6	 0.88e6 1.76e6 	1.9 	4.5e4 	8.3 	0.45 	0.99 	0.02e9
+NGC5102p   1	0.88e6   0.88e6 1.76e6 	1.9 	4.5e4 	8.8 	0.18 	0.54 	0.18e9
+NGC5206   0    0.47e6	 0.47e6	0.94e6	2.9	2e4	3.73	0.1	0.4	0.53e9
+NGC5206	   0   0.47e6	 0.47e6 0.94e6  2.9     2e4     3.73 	0.1	0.92	0.18e9
+NGC404 	   0	0.07e6   0.07e6 0.14e6 	0.7 	1.1e5 	49 	0.2 	0.5 	0.25e9
+NGC205 	  0	0.04e6   0.04e6 0.08e6 	0.25 	7e5 	299 	0.2 	0.39 	0.8e9
+   
+
+
+
+

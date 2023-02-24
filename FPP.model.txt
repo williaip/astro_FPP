@@ -1,0 +1,29 @@
+#galaxy=Primary Host Galaxy
+#sersic=Sersic index
+#mgal=Mass of Galaxy in solar masses
+#rho0=central density in solar masses per parsec^3
+#reff=effective radius in kpc
+#voversigma=ratio of rotation velocity to velocity dispersion
+#mnsc=Mass of nuclear star cluster in units of solar masses
+#rnsc=(half mass?) radius of nuclear star cluster in parsec
+#mbh=mass of primary black hole in units of solar masses
+#rinfl=radius of influence in parsec
+#rhoinfl=density at the radius of influence in solar masses/pc^3
+galaxy	 sersic	 mgal	 rho0	 reff	 voversigma	 mnsc	 rnsc	 mbh	 rinfl	 rhoinfl
+NGC2639r	  3.34	 720e9    1e4	     5.63     0.5	 0.0e7	 0.0	 1700e6	 130	 290
+NGC2639pq4	  3.34	 720e9   1e4	     5.63     0.5	 0.0e7	 0.0	 1700e6	 130	 290
+NGC2639p	  3.34	 720e9   1e4	     5.63     0.5	 0.0e7	 0.0	 1700e6	 130	 290
+NGC6958r 	  3.3 	 36e9     1e3 	     2.59     0.5 	 0.0e7 	 0.0 	 360e6 	 160 	 18 
+NGC6958p  	  3.3 	 36e9     1e3 	     2.59     0.5 	 0.0e7 	 0.0 	 360e6 	 160 	 18
+MWp  	  1.32 	 9.6e9   1e7   1.0      0.6 	 4.0e7 	 4.2 	 4.0e6 	 1.2 	 2.6e5
+MWrq4  	  1.32 	 9.6e9    1e7   1.0      0.6 	 4.0e7 	 4.2 	 4.0e6 	 1.2 	 2.6e5
+MWpq4  	  1.32 	 9.6e9    1e7   1.0      0.6 	 4.0e7 	 4.2 	 4.0e6 	 1.2 	 2.6e5
+M32rq4 	  1.6 	 1.04e9   1e7   0.18     0.7 	 1.45e7 	 4.4 	 2.5e6 	 1.61 	 6.5e4
+M32pq4 	  1.6 	 1.04e9   1e7   0.18     0.7 	 1.45e7 	 4.4 	 2.5e6 	 1.61 	 6.5e4
+M32p	  1.6 	 1.04e9   1e7   0.18     0.7 	 1.45e7 	 4.4 	 2.5e6 	 1.61 	 6.5e4
+NGC5102r 	  3.0	 5.98e9   2e6    1.2      0.6 	 0.71e7 	 1.6 	 0.88e6 	 1.2 	 2e5
+NGC5102p 	  3.0	 5.98e9   2e6    1.2      0.6 	 0.71e7 	 1.6 	 0.88e6 	 1.2 	 2e5
+NGC5206 	  2.57 	 2.43e9   1e6    0.99     0.25 	 0.17e7 	 3.4 	 0.47e6 	 1.0 	 6e4
+NGC5206 	  2.57 	 2.43e9   1e6    0.99     0.25 	 0.17e7 	 3.4 	 0.47e6 	 1.0 	 6e4
+NGC404 	  2.5 	 0.86e9   2e5    0.675    0.2 	 0.34e7 	 1.6 	 0.07e6 	 0.35 	 1e5
+NGC205 	  1.4 	 0.97e9   1e6    0.52     0.2 	 0.18e7 	 1.3 	 0.04e6 	 0.14 	 6e5
